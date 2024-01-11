@@ -1,9 +1,10 @@
 # JavaC-Exempel
 A Simple example of how to use C in java
 
+I used:
 - Java 21
 - JNI
-- C
+- C (gcc.exe (Rev6, Built by MSYS2 project) 13.1.0)
 
 
 
