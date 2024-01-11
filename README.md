@@ -6,7 +6,9 @@ A Simple example of how to use C in java
 
 
 # Build
+```
 gcc -shared -o DLL/backend.dll -I "C:/Program Files/Java/jdk-21/include" -I "C:/Program Files/Java/jdk-21/include/win32" backend/backend.c
+```
 
 - GCC Is the Compiler
 - DLL/backend.dll Is output place
